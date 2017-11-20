@@ -1,0 +1,22 @@
+{
+  "name": "lending-club-alert",
+  "version": "1.0.0",
+  "description": "Reminds you to compound",
+  "author": "Robert Stanfield",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/stanfieldr/lending-club-alert#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanfieldr/lending-club-alert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stanfieldr/lending-club-alert/issues"
+  },
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
+}
